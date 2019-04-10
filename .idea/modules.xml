@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/code-part1.iml" filepath="$PROJECT_DIR$/.idea/code-part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-c1-local-tran-jdbc/local-tran-jdbc.iml" filepath="$PROJECT_DIR$/imooc-c1-local-tran-jdbc/local-tran-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-c4-spring-cloud/order/order.iml" filepath="$PROJECT_DIR$/imooc-c4-spring-cloud/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-c4-spring-cloud/proxy/proxy.iml" filepath="$PROJECT_DIR$/imooc-c4-spring-cloud/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-c4-spring-cloud/registry/registry.iml" filepath="$PROJECT_DIR$/imooc-c4-spring-cloud/registry/registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-c4-spring-cloud/service/service.iml" filepath="$PROJECT_DIR$/imooc-c4-spring-cloud/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-c2-spring-boot-db/spring-boot-db.iml" filepath="$PROJECT_DIR$/imooc-c2-spring-boot-db/spring-boot-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-c3-2-spring-trans-jms/spring-trans-jms.iml" filepath="$PROJECT_DIR$/imooc-c3-2-spring-trans-jms/spring-trans-jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-c3-1-spring-trans-jpa/spring-trans-jpa.iml" filepath="$PROJECT_DIR$/imooc-c3-1-spring-trans-jpa/spring-trans-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-c3-3-spring-trans-jta/spring-trans-jta.iml" filepath="$PROJECT_DIR$/imooc-c3-3-spring-trans-jta/spring-trans-jta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-c3-4-spring-trans-jta-multi/spring-trans-jta-multi.iml" filepath="$PROJECT_DIR$/imooc-c3-4-spring-trans-jta-multi/spring-trans-jta-multi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-c4-spring-cloud/user/user.iml" filepath="$PROJECT_DIR$/imooc-c4-spring-cloud/user/user.iml" />
+    </modules>
+  </component>
+</project>

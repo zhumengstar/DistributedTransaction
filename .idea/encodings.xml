@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/imooc-c1-local-tran-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-c2-spring-boot-db" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-c3-1-spring-trans-jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-c3-2-spring-trans-jms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-c3-3-spring-trans-jta" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-c3-4-spring-trans-jta-multi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-c4-spring-cloud/order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-c4-spring-cloud/proxy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-c4-spring-cloud/registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-c4-spring-cloud/user" charset="UTF-8" />
+  </component>
+</project>

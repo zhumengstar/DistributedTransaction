@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="local-tran-jdbc" />
+        <module name="order" />
+        <module name="proxy" />
+        <module name="registry" />
+        <module name="service" />
+        <module name="spring-boot-db" />
+        <module name="spring-trans-jms" />
+        <module name="spring-trans-jpa" />
+        <module name="spring-trans-jta" />
+        <module name="spring-trans-jta-multi" />
+        <module name="user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="local-tran-jdbc" target="1.5" />
+      <module name="order" target="1.8" />
+      <module name="proxy" target="1.8" />
+      <module name="registry" target="1.8" />
+      <module name="service" target="1.5" />
+      <module name="spring-boot-db" target="1.8" />
+      <module name="spring-trans-jms" target="1.8" />
+      <module name="spring-trans-jpa" target="1.8" />
+      <module name="spring-trans-jta" target="1.8" />
+      <module name="spring-trans-jta-multi" target="1.8" />
+      <module name="user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
